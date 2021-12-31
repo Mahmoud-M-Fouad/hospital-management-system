@@ -64,3 +64,43 @@ C:\Users\Eng Ahmed\Desktop\mamdoh project\FinalProject\FinalProject\obj\Debug\Fi
 H:\E_study\Collage\level 3\3.1\visual  programing\section\proj Visual Programming\mamdoh project\hospital managment system\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
 H:\E_study\Collage\level 3\3.1\visual  programing\section\proj Visual Programming\mamdoh project\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 H:\E_study\Collage\level 3\3.1\visual  programing\section\proj Visual Programming\mamdoh project\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\CircularProgressBar.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\Guna.UI2.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\WinFormAnimation.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\Google.Protobuf.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\Zstandard.Net.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\BouncyCastle.Crypto.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\Ubiety.Dns.Core.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\Renci.SshNet.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\System.Buffers.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\K4os.Compression.LZ4.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\K4os.Hash.xxHash.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\bin\Debug\MySql.Data.xml
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Acountants.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.AddMember.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.AddPatient.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.datagrid.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.DeleteMember.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Delete_Update.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Doctor.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.employee_details.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Login.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.mamdohsearch.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Manager.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Pharmacy.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.Receptions.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.viewMember.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.StartProject.resources
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\FinalProject\FinalProject\obj\Debug\FinalProject.pdb

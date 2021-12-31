@@ -13,7 +13,7 @@ namespace FinalProject
 {
     class mysqlclass
     {
-        MySqlConnection con = new MySqlConnection("Server=localhost;database=hospital_managment_system2;UID=root;password=;SslMode=none");
+        MySqlConnection con = new MySqlConnection("Server=localhost;database=mn;UID=root;password=;SslMode=none");
         MySqlCommand cmd;
         int i;
         //Acountants accountant;

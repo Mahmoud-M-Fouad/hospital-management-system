@@ -99,7 +99,7 @@ namespace FinalProject
             login = "Manager";
             label.Text =" "+ s + btnManager.Text;
            panelLogin.Enabled = true;
-            this.pictureBoxLogin.Image = Image.FromFile("C:\\Users\\Eng Ahmed\\Desktop\\Icon\\New folder\\Manag.png");
+            this.pictureBoxLogin.Image = Image.FromFile(@"G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\Icon\New folder\Manag.png");
             panelLogin.Visible = true;
         }
 
@@ -108,7 +108,7 @@ namespace FinalProject
             login = "Reception";
             label.Text = " " + s + btnReception.Text;
             panelLogin.Enabled = true;
-            this.pictureBoxLogin.Image = Image.FromFile("C:\\Users\\Eng Ahmed\\Desktop\\Icon\\New folder\\Rece.png");
+            this.pictureBoxLogin.Image = Image.FromFile(@"G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\Icon\New folder\Rece.png");
             panelLogin.Visible = true;
         }
 
@@ -117,7 +117,7 @@ namespace FinalProject
             login = "Doctor";
             label.Text = " " + s + btnDoctor.Text;
             panelLogin.Enabled = true;
-            this.pictureBoxLogin.Image = Image.FromFile("C:\\Users\\Eng Ahmed\\Desktop\\Icon\\New folder\\Doc.png");
+            this.pictureBoxLogin.Image = Image.FromFile(@"G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\Icon\New folder\Doc.png");
             panelLogin.Visible = true;
         }
 
@@ -127,7 +127,7 @@ namespace FinalProject
            
             label.Text =  " " + s + btnNurses.Text;
             panelLogin.Enabled = true;
-            this.pictureBoxLogin.Image = Image.FromFile("C:\\Users\\Eng Ahmed\\Desktop\\Icon\\New folder\\Nurs.png");
+            this.pictureBoxLogin.Image = Image.FromFile(@"G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\Icon\New folder\Nurs.png");
             panelLogin.Visible = true;
         }
 
@@ -136,7 +136,7 @@ namespace FinalProject
             login = "Acountants";
             label.Text =  " " + s + btnAcountants.Text;
             panelLogin.Enabled = true;
-            this.pictureBoxLogin.Image = Image.FromFile("C:\\Users\\Eng Ahmed\\Desktop\\Icon\\New folder\\Acco.png");
+            this.pictureBoxLogin.Image = Image.FromFile(@"G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\Icon\New folder\Acco.png");
             panelLogin.Visible = true;
         }
 
@@ -145,7 +145,7 @@ namespace FinalProject
             login = "pharmacy";
             label.Text =  " " + s + btnpharmacy.Text;
             panelLogin.Enabled = true;
-            this.pictureBoxLogin.Image = Image.FromFile("C:\\Users\\Eng Ahmed\\Desktop\\Icon\\New folder\\phar.png");
+            this.pictureBoxLogin.Image = Image.FromFile(@"G:\E_study\ProjectGitHub\hospital-management-system\hospital managment system\Icon\New folder\phar.png");
             panelLogin.Visible = true;
         }
 
